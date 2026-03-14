@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python виртуальное окружение
+venv/
+
+# Python кэш
+__pycache__/
+*.pyc
+
+*.save
